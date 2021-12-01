@@ -1,0 +1,10 @@
+/dist/*
+.local
+.output.js
+.tsconfig.json
+/node_modules/**
+
+**/*.svg
+**/*.sh
+
+/public/*
